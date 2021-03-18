@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="635" height="632" viewBox="0 0 635 632">
+  <g id="hero_image" data-name="hero image" transform="translate(-921 -308)">
+    <rect  class="square-anim" id="Rectangle_4" data-name="Rectangle 4" width="159" height="158" rx="20" transform="translate(1241 308)" fill="#5c3bff"/>
+    <rect class="square-anim" id="Rectangle_8" data-name="Rectangle 8" width="159" height="158" rx="20" transform="translate(1241 624)" fill="#5c3bff"/>
+    <rect class="square-anim" id="Rectangle_9" data-name="Rectangle 9" width="159" height="158" rx="20" transform="translate(1082 619)" fill="#5c3bff"/>
+    <rect class="square-anim" id="Rectangle_11" data-name="Rectangle 11" width="159" height="158" rx="20" transform="translate(1083 782)" fill="#fff"/>
+    <rect class="square-anim" id="Rectangle_10" data-name="Rectangle 10" width="159" height="158" rx="20" transform="translate(921 619)" fill="#ff8ff1"/>
+    <rect class="square-anim" id="Rectangle_5" data-name="Rectangle 5" width="159" height="158" rx="20" transform="translate(1241 466)" fill="#fff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="77" cy="77" r="77" transform="translate(1083 623)" fill="#1af9ff"/>
+    <rect class="square-anim" id="Rectangle_7" data-name="Rectangle 7" width="159" height="158" rx="20" transform="translate(1397 461)" fill="#ff8ff1"/>
+    <rect class="square-anim" id="Rectangle_6" data-name="Rectangle 6" width="159" height="158" rx="20" transform="translate(1082 461)" fill="#fff"/>
+    <circle  id="Ellipse_2" data-name="Ellipse 2" cx="77" cy="77" r="77" transform="translate(1244 467)" fill="#1af9ff"/>
+  </g>
+</svg>
